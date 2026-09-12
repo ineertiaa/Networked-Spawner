@@ -1,5 +1,7 @@
 # Networked Spawner
 
+# [Click me to download!](https://github.com/ineertiaa/Networked-Spawner/releases/tag/1.0)
+
 # How to use
 Make sure to have a box collider with isTrigger set to ON
 
